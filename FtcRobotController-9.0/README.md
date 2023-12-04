@@ -1,6 +1,6 @@
 # 2023-2024 CENTERSTAGE Gameplay Shorter Version.
 ## Robot(*chitti*):
-![Robot Image](/images/chittiTheRobot.png)
+![Robot Image](FtcRobotController-9.0/images/chittiTheRobot.png)
 
 ## Requirements
 To use this Android Studio project, you will need Android Studio 2021.2 (codename Chipmunk) or later.
@@ -33,11 +33,11 @@ Once you have downloaded and uncompressed (if needed) your folder, you can use A
 
 ## Project Documentation
 ### Driver Station Overview:
-![Driver Station Image](/images/DriverStation.png)
+![Driver Station Image](FtcRobotController-9.0/images/DriverStation.png)
 ### Robot Controller Overview
-![Control Hub Image](/images/ControlHub.png)
+![Control Hub Image](FtcRobotController-9.0/images/ControlHub.png)
 
 
 ### Configuration Details:
-![Robot Configurations Image](/images/Configurations.png)
+![Robot Configurations Image](FtcRobotController-9.0/images/Configurations.png)
 
