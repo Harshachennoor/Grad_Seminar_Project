@@ -33,11 +33,11 @@ Once you have downloaded and uncompressed (if needed) your folder, you can use A
 
 ## Project Documentation
 ### Driver Station Overview:
-![Driver Station Image](FtcRobotController-9.0/images/DriverStation.png)
+![Driver Station Image](images/DriverStation.png)
 ### Robot Controller Overview
-![Control Hub Image](FtcRobotController-9.0/images/ControlHub.png)
+![Control Hub Image](images/ControlHub.png)
 
 
 ### Configuration Details:
-![Robot Configurations Image](FtcRobotController-9.0/images/Configurations.png)
+![Robot Configurations Image](images/Configurations.png)
 
